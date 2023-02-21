@@ -1,10 +1,4 @@
 class Country {
-  final String name;
-  final String dialCode;
-  final String countryCode;
-  final String emoji;
-  final String flagUri;
-
   const Country({
     required this.name,
     required this.dialCode,
@@ -12,4 +6,10 @@ class Country {
     required this.emoji,
     required this.flagUri,
   });
+
+  final String name;
+  final String dialCode;
+  final String countryCode;
+  final String emoji;
+  final String flagUri;
 }
