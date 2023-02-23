@@ -6,6 +6,7 @@
 ## [1.0.4]
 
 * increase `package:flutter_svg` version
+* fix redering issue on some platforms
 
 ## [1.0.3]
 
